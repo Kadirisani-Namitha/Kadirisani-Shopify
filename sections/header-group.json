@@ -62,11 +62,16 @@
         "button_text": "SHOP NOW",
         "button_link": ""
       }
+    },
+    "product_grid_wmUjmE": {
+      "type": "product-grid",
+      "settings": {}
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "banner_RWfyGV"
+    "banner_RWfyGV",
+    "product_grid_wmUjmE"
   ]
 }

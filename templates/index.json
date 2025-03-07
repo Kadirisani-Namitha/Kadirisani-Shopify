@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "This are the Latest Products",
+            "heading": "BROWSE THE PRODUCTS",
             "heading_size": "h0"
           }
         },
@@ -63,12 +63,12 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
-        "heading_size": "h2",
+        "heading_size": "hxl",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
-        "products_to_show": 8,
+        "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
