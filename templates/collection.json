@@ -37,12 +37,19 @@
           "settings": {
             "collection": ""
           }
+        },
+        "featured_collection_waCYqV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "featured_collection_MhUjGW",
         "featured_collection_fGPgi6",
-        "featured_collection_3fXyAp"
+        "featured_collection_3fXyAp",
+        "featured_collection_waCYqV"
       ],
       "settings": {
         "title": "Collections",
