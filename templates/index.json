@@ -15,8 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "This are the latest products",
-            "heading_size": "hxxl"
+            "heading": "This are the Latest Products",
+            "heading_size": "h0"
           }
         },
         "button": {
@@ -29,19 +29,11 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "text_36e7eQ": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "heading",
-        "button",
-        "text_36e7eQ"
+        "button"
       ],
       "custom_css": [],
       "settings": {
