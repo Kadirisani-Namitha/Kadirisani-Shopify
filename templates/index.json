@@ -29,11 +29,19 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text_UMtEdT": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading",
-        "button"
+        "button",
+        "text_UMtEdT"
       ],
       "custom_css": [],
       "settings": {
